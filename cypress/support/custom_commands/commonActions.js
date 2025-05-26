@@ -1,5 +1,4 @@
 import { fakerEN_NG as faker } from '@faker-js/faker';
-import { min, max } from 'moment';
 
 let signup
 let login
